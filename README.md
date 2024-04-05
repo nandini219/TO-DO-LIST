@@ -1,1 +1,4 @@
 # TO-DO-LIST
+The To-Do List Web application aims to streamline task management for users by providing a simple yet effective platform to create, save, and organize daily tasks by reordering list of task by drag and drop. 
+Built using HTML, CSS, and JavaScript, the application offers a user-friendly interface accessible from any web browser.Upon opening the application, users are greeted with a clean and intuitive layout, featuring options to add new tasks, mark tasks as complete, and delete tasks. Each task can be customized with a title, description. 
+The To-Do List Web application empowers users to stay organized and focused by providing a convenient platform to manage their daily responsibilities with ease. Whether it's for work, school, or personal endeavors, this application serves as a reliable tool to enhance productivity and task management efficiency.
